@@ -12,7 +12,7 @@ The main purpose of this device is to provide its users a hassle free experience
 1. PIC 16F877A Microcontroller - 1 Pc 
 2. Ultrasonic Sensor - 1 Pc 
 3. 5v Regulator - 1 Pc 
-4. Oscillator (16 MHz) - 1
+4. Oscillator (16 MHz) - 1Pc
 5. Capcitors () - 2Pc
 6. Wires
 7. LED-3 Pc
