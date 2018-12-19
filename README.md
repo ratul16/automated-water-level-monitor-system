@@ -26,4 +26,8 @@ A project using Micro-Controller Pic 16F877A . The main purpose of this device i
 **Procedure :**
 
 
+**Contribution :**
+1. [Badiuzzaman Pranto](https://github.com/prantoamt)
+2. [Mostafa Didar](https://github.com/mossydidar)
+3. [Mahid Shawon](https://github.com/MahidShawon)
 
