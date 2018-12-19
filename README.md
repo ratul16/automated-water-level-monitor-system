@@ -1,11 +1,13 @@
 # Smart Water Pamp System
 
-**Objective**
+## Course : CSE 331 
 
-A project using Micro-Controller Pic 16F877A . The main purpose of this device is to provide its users a hassle free experience. Just install the system once and you are good to go. The device monitors the water level inside your reservoir using Ultrasonic/Sonar sensor & then controls the water pump accordingly.
+**Objective :**
+
+The main purpose of this device is to provide its users a hassle free experience. Just install the system once and you are good to go. The device monitors the water level inside your reservoir using Ultrasonic/Sonar sensor & then controls the water pump accordingly.
 
 
-**Components**
+**Components :**
 
 1. PIC 16F877A Microcontroller - 1 Pc 
 2. Ultrasonic Sensor - 1 Pc 
@@ -17,13 +19,23 @@ A project using Micro-Controller Pic 16F877A . The main purpose of this device i
 8. Relay
 9. 9v Battery
 
+**Software Used :**
+1. Simulation (Proteus)
+2. Coding (MikroC)
 
-**Protus Design :**
+---
+
+**Simulation Design :**
 
 ![Simulation](2.jpg)
 
 
 **Procedure :**
+
+
+**Image of hardware Implementation :**
+
+
 
 
 **Contribution :**
